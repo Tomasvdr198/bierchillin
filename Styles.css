@@ -1,0 +1,168 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+header{
+    width: 100%;
+    height: 20%;
+    background-color: black;
+}
+
+body{
+    width: 100%;
+    height: 90%;
+    background-color: whitesmoke;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 500%;
+}
+
+#bier{
+    width: 80%;
+    height: 80%;
+    background-color:white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    overflow-y: scroll;
+}
+
+#bierhead{
+    width: 100%;
+    height: 20%;
+  
+}
+h2{
+    font-size: 400%;
+    text-align: center;
+}
+
+#bieraantal{
+    height: 50%;
+    width: 100%;
+   
+}
+
+#bierknop{
+    height: 20%;
+    width: 100%;
+   
+}
+
+#bieraantalTop{
+    height: 20%;
+    width: 100%;
+   
+    float: left;
+    
+}
+#bieraantalBottom{
+    height: 30%;
+    width: 100%;
+    
+    float: right;
+}
+
+p{
+    margin: 5%;
+    text-align: center;
+    font-size: 300%;
+}
+
+#knopje{
+    height: 70%;
+    width: 80%;
+    background-color: black;
+    align-content: center;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+}
+
+h3{
+    color: white;
+    font-size: 500%;
+}
+
+
+/* CSSTerm.com Simple CSS menu */
+
+.menu_simple ul {
+    
+    margin: 0; 
+    padding: 0;
+    width:100%;
+    height: 100%;
+    list-style-type: none;
+}
+
+.menu_simple ul li a {
+    font-size: 500%;
+    text-decoration: none;
+    color: white; 
+    padding: 10.5px 11px;
+    background-color: black;
+    display:block;
+}
+ 
+.menu_simple ul li a:visited {
+    color: white;
+}
+ 
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: white;
+    background-color: gray;
+}
+
+tbody{
+    border-color: black;
+    border-width: thick;
+    font-size: 100%;
+}
+
+tbody{
+    border-color: black;
+    border-width: thick;
+    font-size: 250%;
+}
+
+#edit{
+    height: 50px;
+    width: 50px;
+}
+
+#edit2{
+    height: 50px;
+    width: 50px;
+}
+
+#addUserpic{
+    height: 100%;
+    float: right;
+}
+
+#addUser{
+    height: 10%;
+    align-items: center;
+}
+
+#tr{
+    font-size: 100%;
+}
+
+#addBeer{
+    height: 80%;
+    width: 60%;
+    border-color: black;
+    border: 1;
+    font-size: 100%;
+}
+
+#add{
+    height: 50px;
+    width: 50px;
+    
+}
